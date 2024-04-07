@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "blog-revton"
+version = "0.1.0"
+description = ""
+authors = ["Revton Braga <revtonbr@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[tool.poetry.group.dev.dependencies]
+commitizen = "^3.21.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
