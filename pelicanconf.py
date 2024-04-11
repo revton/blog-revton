@@ -1,6 +1,6 @@
 AUTHOR = 'Revton Braga'
 SITENAME = 'Blog'
-SITEURL = ""
+SITEURL = "https://revton.github.io/blog-revton"
 
 PATH = "content"
 

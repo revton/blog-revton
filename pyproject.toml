@@ -12,6 +12,7 @@ pelican = {extras = ["markdown"], version = "^4.9.1"}
 
 [tool.poetry.group.dev.dependencies]
 commitizen = "^3.21.3"
+ghp-import = "^2.1.0"
 
 [build-system]
 requires = ["poetry-core"]
