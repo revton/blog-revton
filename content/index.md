@@ -1,5 +1,5 @@
-Title: Meu Portfólio
-Date: 2024-04-01
-Category: Página Inicial
+Title: My Portfolio
+Date: 2024-04-14
+Category: Home Page
 
-Bem-vindo ao meu portfólio! Aqui você encontrará meus projetos, artigos e mais informações sobre mim.
+Welcome to my portfolio! Here you will find my projects, articles, and more information about me.

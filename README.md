@@ -27,3 +27,10 @@ Envie as alterações para o GitHub, atualizando a branch gh-pages.
 ```bash
 git push origin gh-pages
 ```
+
+## Desenvolvimento 
+
+### Executar
+```bash
+pelican  --autoreload --listen
+```
